@@ -16,3 +16,4 @@
 •	Debugging the code using different resources and learned skills correcting the errors.
 •	Fixing the code by Implementing new codes and annotations to get a running code.
 
+<img width="1258" alt="Screenshot 2023-06-30 at 10 34 01 AM" src="https://github.com/rtyler7075/Capstone3_EasyShop/assets/130314287/d06145ee-2aec-4b23-ab31-91e0a6b0907f">
